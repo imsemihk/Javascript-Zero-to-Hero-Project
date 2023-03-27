@@ -9,7 +9,7 @@ for (let i = 2; i <= Math.floor(sayi / 2); i++) {
     }
 }
 if (sonuc == true) {
-    alert(sayi + " Asaldır.")
+    alert(sayi + " Asaldır.");
 } else {
-    alert(sayi + " Asal Değildir.")
+    alert(sayi + " Asal Değildir.");
 }
